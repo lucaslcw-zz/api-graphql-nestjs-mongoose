@@ -1,8 +1,8 @@
 {
-  "name": "api-graphql",
+  "name": "api-graphql-nestjs-mongoose",
   "version": "0.0.1",
   "description": "",
-  "author": "",
+  "author": "Lucas Cavalcante",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
